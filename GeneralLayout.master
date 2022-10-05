@@ -10,7 +10,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet" />
     <link href="css/Custom-Cs.css" rel="stylesheet" />
 
-    <title>TechCybo Online Shop</title>
+    <title>Online Shop</title>
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
@@ -87,7 +87,7 @@
             <footer>
                 <div class="container">
                     <p class="float-right"><a href="#">Back to top</a></p>
-                    <p>&copy; 2015 TechCybo.com &middot; <a href="Default.aspx">Home</a> &middot; <a href="#">About</a> &middot; <a href="#">Contact</a> &middot; <a href="Products.aspx">All Products</a></p>
+                    <p>&copy; 2022 www.company.com &middot; <a href="Default.aspx">Home</a> &middot; <a href="#">About</a> &middot; <a href="#">Contact</a> &middot; <a href="Products.aspx">All Products</a></p>
                 </div>
             </footer>
 
