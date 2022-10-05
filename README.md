@@ -1,2 +1,2 @@
-# ASP.Net.ResponsiveWebForms
-ASP.Net.ResponsiveWebForms with bootstrap
+# Responsive-Website-ASP.NET-Bootstrap-Tutorial
+A Tutorial Series about Responsive Website with ASP.NET and Bootstrap
